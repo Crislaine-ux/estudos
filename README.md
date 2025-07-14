@@ -26,7 +26,7 @@ Evoluir na linguagem Java, entendendo bem os conceitos de programação estrutur
 Organização do projeto
 
 - logica-basica: exercícios de operadores e conceitos básicos
-- estruturas: condicionais` → if, else, switch
+- estruturas: condicionais: if, else, switch
 - loops: for, while, do-while
 - poo: classes, objetos, métodos
-- interfaces-graficas` → projetos com Swing
+- interfaces graficas:projetos com Swing
